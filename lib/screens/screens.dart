@@ -3,3 +3,8 @@ export 'package:components_test/screens/listview1_screen.dart';
 export 'package:components_test/screens/listview2_screen.dart';
 export 'package:components_test/screens/alert_screen.dart';
 export 'package:components_test/screens/card_screen.dart';
+export 'package:components_test/screens/avatar_screen.dart';
+export 'package:components_test/screens/AnimatedScreen.dart';
+export 'package:components_test/screens/Inputs_screen.dart';
+export 'package:components_test/screens/listview_builder_screen.dart';
+export 'package:components_test/screens/slider_screen.dart';
